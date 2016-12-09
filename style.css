@@ -1,0 +1,61 @@
+
+#box{
+	display:none;
+    width: 23%;
+    height: 7%;
+    top: 45%;
+	    border-radius: 3px;
+    margin: auto;
+    align-content: center;
+    /* margin-top: auto; */
+    /* display: block; */
+    position: relative;
+   background-color: #505156;;
+	
+}
+.text {
+       color: white;
+    position: relative;
+	    font-family: monospace;
+		    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    /* font-size: 20px; */
+    margin: auto;
+    /* align-items: center; */
+    top: 25%;
+    /* left: 14% !important; */
+}
+.top {
+         color: white;
+    position: relative;
+    font-family: monospace;
+    font-size: 16px;
+    text-align: center;
+    margin: auto;
+    vertical-align: middle;
+    /* font-size: 20px; */
+    /* margin: auto; */
+    bottom: -20px;
+    /* align-items: center; */
+    top: 15%;
+    /* left: 14% !important; */
+}
+body {
+    background-image: url("lol.jpg");
+    background-color: ;
+}
+#toast {
+    position: fixed;
+    top: 3%;
+    width: 6%;
+    border-radius: 3px;
+    background: #2d2a2a;
+    height: 5%;
+    right: 3%;
+}
+p#status {
+    vertical-align: middle;
+    margin: auto;
+    /* background-color: white; */
+}
