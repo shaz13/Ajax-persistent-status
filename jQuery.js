@@ -22,6 +22,7 @@ $(document).ready(function(){
 			$('#box').css("background-color","#bab8bb");
 		$('#box').html("<div class=text>Connection lost</div>");
        $('#status').html("<b>Offline</b>");
+			 $('#scrl').html("<b>It Works !</b>");
        $('#toast').css("background","#d60f0f");
 
     }
