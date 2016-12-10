@@ -11,7 +11,7 @@ $(document).ready(function(){
       $("#box").fadeIn(700);
 			    $('#ia').css("color","#4caf50");
 			  $('#box').css("background-color","#99cbe6");
-			$('#box').html("<div class=text>Synchronising Data</div>");
+			$('#box').html("<div class=text>User is Online</div>");
       $('#status').html("<b>Online</b>");
       $('#toast').css("background","#4caf50");
 
