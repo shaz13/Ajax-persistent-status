@@ -3,7 +3,7 @@
 	display:none;
     width: 23%;
     height: 7%;
-    top: 45%;
+    top: 75%;
 	    border-radius: 3px;
     margin: auto;
     align-content: center;
@@ -11,13 +11,39 @@
     /* display: block; */
     position: relative;
    background-color: #505156;;
-	
+
+}
+div#ia {
+    display: inline;
+}
+h1, h2 {
+	font-family: fantasy;
+font-weight: 100;
+font-size: 60px;
+text-transform: uppercase;
+position: absolute;
+vertical-align: middle;
+/* margin: auto; */
+top: 6%;
+left: 23.5%;
+color: white;
+/* left: 12%; */
+justify-content: center;
+}
+img {
+    position: fixed;
+    height: 250px;
+    margin: auto;
+    top: 31%;
+    left: 38%;
 }
 .text {
-       color: white;
+       color: #5b5650;
+			 text-transform: uppercase;
+			 font-weight: bold;
     position: relative;
 	    font-family: monospace;
-		    font-size: 16px;
+		    font-size: 21px;
     text-align: center;
     vertical-align: middle;
     /* font-size: 20px; */
@@ -42,15 +68,15 @@
     /* left: 14% !important; */
 }
 body {
-    background-image: url("lol.jpg");
-    background-color: ;
+
+    background-color: #1b3740;
 }
 #toast {
     position: fixed;
     top: 3%;
     width: 6%;
     border-radius: 3px;
-background: #73adaa;
+  background: #73adaa;
     height: 5%;
     right: 3%;
 }
