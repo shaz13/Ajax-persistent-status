@@ -16,7 +16,7 @@
 p#scrl {
     background: #262829;
     color: #ffffff;
-    width: 230px;
+    width: auto;
     height: auto;
     padding: 10px;
     vertical-align: middle;
@@ -30,7 +30,7 @@ width: 20%;
 margin: auto;
 vertical-align: middle;
 font-size: 14px;
-top: 80%;
+top: 77%;
 position: relative;
 font-weight: lighter;
 }
