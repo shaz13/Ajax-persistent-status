@@ -13,6 +13,27 @@
    background-color: #505156;;
 
 }
+p#scrl {
+    background: #262829;
+    color: #ffffff;
+    width: 230px;
+    height: auto;
+    padding: 10px;
+    vertical-align: middle;
+    position: static;
+}
+.roller {
+	font-family: monospace;
+text-align: center;
+color: white;
+width: 20%;
+margin: auto;
+vertical-align: middle;
+font-size: 14px;
+top: 80%;
+position: relative;
+font-weight: lighter;
+}
 div#ia {
     display: inline;
 }
