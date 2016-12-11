@@ -13,7 +13,7 @@ $(document).ready(function(){
 
 			    $('#ia').css("color","#4caf50");
 			  $('#box').css("background-color","#99cbe6");
-			$('#box').html("<div class=text>User is Online</div>");
+			$('#box').html("<div class=text>Connected</div>");
       $('#status').html("<b>Online</b>");
       $('#toast').css("background","#4caf50");
 				$("#scrl").fadeIn(2400);
