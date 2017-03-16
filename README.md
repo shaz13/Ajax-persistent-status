@@ -6,6 +6,6 @@ The repository <b>Online_stat</b> consists the code to verify the connection sta
 
 
 
-Demo provided at my site https://goo.gl/z8INqg
+Demo provided at my site http://www.mohammadshahebaz.com/github/online_stat/
 <p>Coded by shaz13</p>
 <p>Peace</p>
