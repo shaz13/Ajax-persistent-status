@@ -6,6 +6,6 @@ The repository <b>Online_stat</b> consists the code to verify the connection sta
 
 
 
-Demo provided at my site http://www.mohammadshahebaz.com/github/online_stat/
+Demo provided at my site https://shaz13.github.io/Ajax-persistent-status/
 <p>Coded by shaz13</p>
 <p>Peace</p>
